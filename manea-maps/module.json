@@ -1,0 +1,27 @@
+{
+    "name": "manea-maps",
+    "title": "Manea's Maps",
+    "description": "A pack of medfan maps by Manea Roliste.",
+    "version": "1.0.0",
+    "author": "Manea",
+    "minimumCoreVersion": "0.8.6",
+    "compatibleCoreVersion": "9.245",
+    "packs": [
+        {
+            "name": "mini-maps",
+            "label": "Mini-maps",
+            "path": "./packs/mini-maps.db",
+            "entity": "Scene",
+            "type": "Scene"
+        },
+        {
+            "name": "mini-maps-musics",
+            "label": "Mini-maps - Musics",
+            "path": "./packs/mini-maps-musics.db",
+            "entity": "Playlist",
+            "type": "Playlist"
+        }
+    ],
+    "manifest": "https://github.com/ManeaRoliste/manea-maps/raw/main/manea-maps/module.json",
+    "download": "https://anonfiles.com/BeL9l4s7y1/Mini-maps_zip"
+  }
